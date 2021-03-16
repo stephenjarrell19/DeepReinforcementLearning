@@ -6,3 +6,6 @@ To run the code, open up the ```agent.ipynb``` notebook, which should import the
 
 ### Running the BipedalWalker-v2 Environment
 The Bipedal Walker takes many more episodes to run since there are more network parameters, more complex reward functions, a larger state space, and more actions to perform. I would recommend a minimum of 800 episodes and a maximum of 3000. The computational cost is high, especially since episodes take longer as the agent learns not to fall over and terminate the episode early.
+
+### Youtube Submission
+https://www.youtube.com/watch?v=cQ3MytLOL94
