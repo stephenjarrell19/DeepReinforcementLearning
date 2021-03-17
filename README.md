@@ -10,7 +10,7 @@ The Bipedal Walker takes many more episodes to run since there are more network 
 
 
 <p align="center">
-<img src="images/normal_env.png" width="700"/>
+<img src="images/walker.gif" width="700"/>
  
 </p>
 
